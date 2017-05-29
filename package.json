@@ -1,0 +1,28 @@
+{
+  "name": "control-flow-magic",
+  "version": "1.0.0",
+  "description": "Uses cases about how Selenium ControlFlow and promises works",
+  "main": "index.js",
+  "scripts": {
+    "case-1": "node case-1-promise-chain.js",
+    "case-2": "node case-2-control-flow.js",
+    "case-3": "node --harmony case-3-await.js"
+  },
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szikszail/control-flow-magic.git"
+  },
+  "author": "Laszlo Szikszai <sziklaszlo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szikszail/control-flow-magic/issues"
+  },
+  "homepage": "https://github.com/szikszail/control-flow-magic#readme",
+  "dependencies": {
+    "chromedriver": "^2.29.0",
+    "selenium-webdriver": "^3.4.0"
+  }
+}
