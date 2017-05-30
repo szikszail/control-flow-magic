@@ -6,7 +6,7 @@
   "scripts": {
     "case-1": "node case-1-promise-chain.js",
     "case-2": "node case-2-control-flow.js",
-    "case-3": "node --harmony case-3-await.js"
+    "case-3": "node --harmony-async-await case-3-await.js"
   },
   "engines": {
     "node": ">=7.0.0"
