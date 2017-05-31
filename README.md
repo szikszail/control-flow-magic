@@ -4,7 +4,7 @@ Use cases about how Selenium ControlFlow and promises works
 
 ## Prerequisites
 
-* Platform: Windows
+* Platform: Windows/Linux
 * NodeJS: >= 7.0.0
 
 ## Install
