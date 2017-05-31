@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - 7
+script:
+  - xvfb-run npm run case-1
+  - xvfb-run npm run case-2
+  - xvfb-run npm run case-2
