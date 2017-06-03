@@ -1,5 +1,7 @@
 # control-flow-magic
 
+[![Build Status](https://travis-ci.org/szikszail/control-flow-magic.svg?branch=master)](https://travis-ci.org/szikszail/control-flow-magic)
+
 Use cases about how Selenium ControlFlow and promises works
 
 ## Prerequisites
